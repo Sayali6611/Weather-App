@@ -41,9 +41,9 @@ Weather-App/
 
 ##  Output Screenshots
 
-(Add your screenshots here after uploading images to GitHub)
+![Output Screenshots](weather.png)
 
-![Weather App Screenshot](images/screenshot1.png)
+![Output Screenshots](weathers.png)
 
 
 ##  How to Run the Project
