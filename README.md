@@ -41,9 +41,9 @@ Weather-App/
 
 ##  Output Screenshots
 
-![Output Screenshots](weather.png)
-
 ![Output Screenshots](weathers.png)
+
+![Output Screenshots](weather.png)
 
 
 ##  How to Run the Project
